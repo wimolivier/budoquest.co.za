@@ -21,4 +21,4 @@ const StudentCreed = () => (
   </div>
 );
 
-window.App.StudentCreed = StudentCreed;
+window.BudoQuest.StudentCreed = StudentCreed;

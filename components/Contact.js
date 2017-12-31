@@ -14,4 +14,4 @@ const Contact = () => (
   </div>
 );
 
-window.App.Contact = Contact;
+window.BudoQuest.Contact = Contact;

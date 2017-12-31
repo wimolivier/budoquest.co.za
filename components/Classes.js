@@ -20,4 +20,4 @@ const Classes = () => (
   </div>
 );
 
-window.App.Classes = Classes;
+window.BudoQuest.Classes = Classes;

@@ -15,4 +15,4 @@ const Instructors = () => (
   </div>
 );
 
-window.App.Instructors = Instructors;
+window.BudoQuest.Instructors = Instructors;

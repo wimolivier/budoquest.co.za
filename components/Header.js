@@ -36,4 +36,4 @@ const Header = () => (
   </header>
 );
 
-window.App.Header = Header;
+window.BudoQuest.Header = Header;

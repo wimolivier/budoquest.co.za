@@ -1,5 +1,5 @@
 const { HashRouter } = ReactRouterDOM;
-const { Header, Main } = window.App;
+const { Header, Main } = window.BudoQuest;
 
 const App = () => (
   <div>

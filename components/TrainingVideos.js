@@ -18,4 +18,4 @@ const TrainingVideos = () => (
   </div>
 );
 
-window.App.TrainingVideos = TrainingVideos;
+window.BudoQuest.TrainingVideos = TrainingVideos;

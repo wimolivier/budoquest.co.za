@@ -39,4 +39,4 @@ const TrainingPrograms = () => (
   </div>
 );
 
-window.App.TrainingPrograms = TrainingPrograms;
+window.BudoQuest.TrainingPrograms = TrainingPrograms;

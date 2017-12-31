@@ -7,7 +7,7 @@ const { Classes,
   StudentCreed,
   TrainingPrograms,
   TrainingVideos
-} = window.App;
+} = window.BudoQuest;
 
 const Main = () => (
   <main>
@@ -24,4 +24,4 @@ const Main = () => (
   </main>
 );
 
-window.App.Main = Main;
+window.BudoQuest.Main = Main;

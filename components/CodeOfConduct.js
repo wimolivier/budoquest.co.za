@@ -25,4 +25,4 @@ const CodeOfConduct = () => (
   </div>
 );
 
-window.App.CodeOfConduct = CodeOfConduct;
+window.BudoQuest.CodeOfConduct = CodeOfConduct;

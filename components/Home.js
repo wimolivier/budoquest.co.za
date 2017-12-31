@@ -47,4 +47,4 @@ const Home = () => (
   </div>
 );
 
-window.App.Home = Home;
+window.BudoQuest.Home = Home;
