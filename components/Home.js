@@ -33,7 +33,6 @@ const Home = () => (
             <br />
             <ul>
               <li>The dojo will be open on Saturdays from 09:00 - 11:00 for students that would like to train or prepare for demos. All belts welcome. Plan for Saturdays with other students during the week.</li>
-              <li>The dojo is closed for the holidays. 1st lesson for 2018 is on Tuesday, 16 January.</li>
             </ul>
           </div>
           <div className="col-md-4">
